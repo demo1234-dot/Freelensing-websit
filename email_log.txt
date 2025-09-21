@@ -1,0 +1,8 @@
+To: abcxyz123@gmail.com
+Subject: New Proposal for your project: wqedwqasf
+Message: You have received a new proposal for your project. Please log in to view it.
+---
+To: mohit28@gmail.com
+Subject: Congratulations! Your proposal for 'wqedwqasf' has been accepted.
+Message: Your proposal has been accepted. You can now start working on the project.
+---

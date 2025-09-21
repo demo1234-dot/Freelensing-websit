@@ -1,0 +1,4 @@
+for SQL=http://localhost/phpmyadmin/index.php
+for webapp=http://localhost/Freelensing%20websit/index.php
+for admin webapp=http://localhost/Freelensing%20websit/admin/login.php
+for admin (Id=admin@gmail.com Password=admin)
